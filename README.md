@@ -4,7 +4,7 @@ Currency Converter projenizi herhangi bir hata almadan çalıştırmak için aş
 
 ## API Anahtarınızı Alın
 
-1. :contentReference[oaicite:0]{index=0} adresine giderek bir hesap oluşturun.
+1. [ExchangeRate-API](https://www.exchangerate-api.com/). adresine giderek bir hesap oluşturun.
 2. API key bölümüne gidin ve yeni bir API anahtarı oluşturun.
 
 **Not:** API ücretsizdir ancak günlük istek (request) limiti bulunmaktadır.
