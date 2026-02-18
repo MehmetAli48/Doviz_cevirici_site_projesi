@@ -1,5 +1,6 @@
 ## 💱 Application Preview
 
+
 ![Currency Converter User Interface](CurrencyConverter.png)
 
 # Currency Converter ReactJS Kurulum Rehberi
