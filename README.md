@@ -1,3 +1,7 @@
+## 💱 Application Preview
+
+![Currency Converter User Interface](CurrencyConverter.png)
+
 # Currency Converter ReactJS Kurulum Rehberi
 
 Currency Converter projenizi herhangi bir hata almadan çalıştırmak için aşağıdaki adımları takip ediniz:
